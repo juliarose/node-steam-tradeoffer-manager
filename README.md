@@ -24,3 +24,9 @@ Such issues may be ignored!**
 
 Report bugs on the [issue tracker](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager/issues) or ask questions
 on the [dedicated forum](https://dev.doctormckay.com/forum/9-node-steam-tradeoffer-manager/).
+
+# Contributing
+
+This script is packaged using [packus](https://github.com/juliarose/packus).
+
+Files for each page are broken down within the src directory which are then joined together to build the script. When working on source files, run ```npm install``` to install dependencies, then ```npm run build``` when building. 
